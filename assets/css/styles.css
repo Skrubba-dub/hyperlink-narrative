@@ -22,7 +22,7 @@ a {
 	border-bottom: green 2px dashed;
 }
 
-img {
+.no-border {
 	border: none;
 
 }
