@@ -1,5 +1,7 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+ :root {
+	font-family: arial, helvetica, sans-serif;
+	background-color: blanchedalmond;
+	color: brown;
 }
