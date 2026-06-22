@@ -11,7 +11,6 @@ h1 {
 	font-size: 3em;
 }
  
-
 .red {
 	color: red; 
 }
@@ -20,5 +19,15 @@ a {
 	color: green;
 	font-weight: bold;
 	text-decoration: none;
-	border-bottom: green 2px solid;
+	border-bottom: green 2px dashed;
+}
+
+img {
+	border: none;
+
+}
+
+a:hover {
+	color: red;
+	border-bottom: red 2px dotted;
 }
