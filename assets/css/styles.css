@@ -25,7 +25,13 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 	border-bottom: green 2px dashed;
+
+.icon {
+	width: 200px;
+	align-items: center;
 }
+
+
 
 .no-border {
 	border: none;
