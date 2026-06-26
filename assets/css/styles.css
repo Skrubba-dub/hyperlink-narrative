@@ -29,7 +29,7 @@ a {
 	color: red;
 	font-weight: bold;
 	text-decoration: none;
-	border-bottom: red 2px dotted;
+	border: red 2px dotted;
 
 }
 
