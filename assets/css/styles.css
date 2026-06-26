@@ -28,9 +28,9 @@ a {
 
 img {
 	width: 200px;
-	display: grid;
+	display:inline-block;
 	justify-content: flex-end;
-	align-items: center;
+	align-items: middle;
 }
 
 
