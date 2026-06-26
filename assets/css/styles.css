@@ -9,6 +9,7 @@
 h1 {
 	font-family:Georgia, 'Times New Roman', Times, serif
 	font-size: 3em;
+	text-align: center;
 }
  
 .red {
@@ -20,6 +21,8 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 	border-bottom: green 2px dashed;
+	image-allign: middle;
+	image-width: 200px;
 }
 
 .no-border {
