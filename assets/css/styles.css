@@ -26,9 +26,9 @@ a {
 	text-decoration: none;
 	border-bottom: green 2px dashed;
 
-iconblock {
+i	{
 	display:block;
-	margin: 0 auto;
+	margin-left: 0 auto;
 }
 
 .icon {
