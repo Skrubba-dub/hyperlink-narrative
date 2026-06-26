@@ -6,6 +6,11 @@
 	color: red;
 }
 
+html {
+	background-image: url(../img/black_hotpink_background.jpg);
+	background-size: cover;
+}
+
 h1 {
 	font-size: 2em;
 	text-align: center;
