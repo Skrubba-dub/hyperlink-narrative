@@ -11,7 +11,11 @@ h1 {
 	font-size: 3em;
 	text-align: center;
 }
- 
+
+p {
+	text-align: center;
+}
+
 .red {
 	color: red; 
 }
@@ -21,8 +25,6 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 	border-bottom: green 2px dashed;
-	image-allign: middle;
-	image-width: 200px;
 }
 
 .no-border {
