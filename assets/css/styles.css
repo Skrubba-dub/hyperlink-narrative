@@ -28,9 +28,8 @@ a {
 
 img {
 	width: 200px;
-	display:block;
 	justify-content: center;
-	align-items: middle;
+	align: middle;
 }
 
 
