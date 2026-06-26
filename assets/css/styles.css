@@ -26,6 +26,13 @@ a {
 	text-decoration: none;
 	border-bottom: green 2px dashed;
 
+}
+
+h2 {
+	margin-left: 20px;
+
+}
+
 .icon {
 	width: 200px;
 	margin-left: 20px;
