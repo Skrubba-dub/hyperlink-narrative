@@ -26,10 +26,9 @@ a {
 	text-decoration: none;
 	border-bottom: green 2px dashed;
 
-img {
+.icon {
 	width: 200px;
-	justify-content: center;
-	align: middle;
+	margin-left: 20px;
 }
 
 
